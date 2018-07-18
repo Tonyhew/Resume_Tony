@@ -120,10 +120,8 @@ a {
   margin-bottom: 40px;
 }
 .section .se-h1 {
-  position: absolute;
-  top: 0;
-  margin-top: 120px;
-  margin-left: 46%;
+  margin-right: 45px;
+  margin-bottom: 20%;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
@@ -157,10 +155,8 @@ a {
   margin-top: 15px;
 }
 .section .contact-des1 {
-  position: absolute;
-  top: 0;
-  margin-top: 10%;
-  margin-left: 41%;
+  margin-right: 45px;
+  margin-bottom: 50px;
 }
 .section .contact-des1 span {
   padding: 10px;
@@ -191,6 +187,12 @@ a {
 .section .link a img {
   width: 26px;
   height: 26px;
+}
+.section .detail {
+  position: absolute;
+  top: 0;
+  margin-left: 41.5%;
+  margin-top: 18%;
 }
 .page3-title {
   font-size: 30px;
@@ -277,7 +279,7 @@ a {
   transform: rotate(0deg);
 }
 .page4 .contact-p {
-  margin-top: 5%;
+  margin-top: 0px;
 }
 .page4 p {
   color: #FFFFFF;
