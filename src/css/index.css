@@ -194,12 +194,6 @@ a {
   margin-left: 41.5%;
   margin-top: 18%;
 }
-.se-h1 {
-  float: left;
-  margin-left: 45%;
-  margin-top: -10%;
-  margin-bottom: 35%;
-}
 .page3-title {
   font-size: 30px;
   line-height: 60px;
@@ -215,7 +209,7 @@ a {
 }
 .page3-list li {
   float: left;
-  width: 15%;
+  width: 20%;
   height: auto;
   padding-bottom: 15px;
   position: relative;
@@ -271,7 +265,6 @@ a {
   background-color: rgba(0, 0, 0, 0.8);
   color: #FFF;
   height: 80%;
-  margin-left: 15px;
 }
 .page3-h {
   color: #ff6700;
@@ -293,15 +286,4 @@ a {
 .page4 p {
   color: #FFFFFF;
   margin-right: 50px;
-}
-.se-h2 {
-  float: left;
-  margin-left: 46.5%;
-  margin-top: 10%;
-  margin-bottom: 30%;
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  color: #FFFFFF;
-  padding: 10px;
 }
